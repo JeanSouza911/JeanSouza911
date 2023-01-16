@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate on every type of projects
 - 📫 How to reach me? shadowjean911@gmail.com and https://www.linkedin.com/in/jean-souza-79b491160/
 
-<div align="center">
-  <a href="https://github.com/JeanSouza911">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeanSouza911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSouza911&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSouza911)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
