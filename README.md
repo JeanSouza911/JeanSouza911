@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSouza911&layout=compact&hide_border=true&title_color=0000CD&text_color=0000CD&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeanSouza911&bg_color=081930&color=0fe7eb&line=05479e&point=7e7c7c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeanSouza911)](https://github.com/JeanSouza911/github-readme-activity-graph)
 
 <div align="center">
   <a href = "mailto:shadowjean911@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
